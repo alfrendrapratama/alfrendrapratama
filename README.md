@@ -13,10 +13,14 @@
 ## 🚀 About Me
 
 - 🎓 I'm currently studying **Informatics Engineering**
+  
 - 🔧 I love working on:
   - **Backend Developer** passionate about building efficient and scalable systems
+    
 - ☁️ Learning **Cloud Computing & AI using AWS Services**
+  
 - 💻 Building web applications using **JavaScript**, **Laravel**, and **Filament**
+  
 - 🧠 Currently exploring:
   - Cloud Computing & AI using AWS
   - Virtual Memory and Page Replacement Algorithms (LRU, FIFO, Optimal)
@@ -29,6 +33,9 @@
 <p align="left">
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  
+   <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -78,7 +85,7 @@
 
 ## ☕ Fun Fact (Coffee Edition)
 
-> “I debug better after coffee. Coincidence? I think not.”  
+> “I debug better after ngopi. Coincidence? I think not.”  
 > “My code runs smoother after my third cup of coffee.”  
 > “Without coffee, I literally have 404 energy not found.”  
 > “Ngoding tanpa ngopi itu kayak `try` tanpa `catch` — bahaya, bro.”  
