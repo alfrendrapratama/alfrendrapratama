@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=github_dark" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrendrapratama&layout=compact&theme=github_dark" width="48%" />
 </p>
 
