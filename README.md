@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
-  🎓 Informatics Student | 🔧 Backend Developer | ☁️ AWS & Cloud Enthusiast
+  🎓 Informatics Student | 🔧 Software Engineer | ☁️ AWS & Cloud Enthusiast
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🎓 I'm currently studying **Informatics Engineering**
   
 - 🔧 I love working on:
-  - **Backend Developer** passionate about building efficient and scalable systems
+  - **Soft Engineer** passionate about building efficient and scalable systems
     
 - ☁️ Learning **Cloud Computing & AI using AWS Services**
   
