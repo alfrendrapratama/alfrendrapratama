@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Cloud+AI+on+AWS;Web+Development;&center=true&width=430&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Cloud+AI+on+AWS;Web+Development;&center=true&width=430&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 
@@ -15,7 +15,7 @@
 - 🎓 I'm currently studying **Informatics Engineering**
   
 - 🔧 I love working on:
-  - **Soft Engineer** passionate about building efficient and scalable systems
+  - **Software Engineer** passionate about building efficient and scalable systems
     
 - ☁️ Learning **Cloud Computing & AI using AWS Services**
   
