@@ -60,11 +60,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfrendrapratama&layout=compact&theme=github_dark&exclude_repo=cpp-projectku" />
-
-</p>
+[![Alfrendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfrendrapratama&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
