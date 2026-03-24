@@ -12,19 +12,19 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently studying **Google Gemini AI Developer Cohort** From Lastmile By Smartbridge
-  
-- 🔧 I love working on:
-  - **Software Engineer** passionate about building efficient and scalable systems
-    
-- ☁️ Learning **Google Gemini AI Developer**
-  
-- 💻 Building web applications using **Python**, **Typescript**, and **Tailwind**
-  
+- 🎓 Currently a member of the **Google Gemini AI Developer Cohort** at **Lastmile by Smartbridge**.
+
+- 🔧 Roles I’m passionate about:
+  - **AI Specialist:** Focusing on algorithm R&D, hyperparameter tuning, and architecting the core logic behind intelligent systems.
+  - **AI Engineer:** Focusing on MLOps, model deployment, API integration, and building scalable AI architectures for real-world production.
+  - **Software Engineer:** Focusing on writing clean, maintainable code and ensuring overall system efficiency and reliability.
+
+- 💻 Building web applications using **Python**, **TypeScript**, and **Tailwind CSS**.
+
 - 🧠 Currently exploring:
-  - Gemini AI Developer
-  - Software Engineering With Kiro
-  - Cloud Computing & AI using AWS
+  - Advanced **Generative AI** with Google Gemini.
+  - **Software Engineering** patterns and best practices.
+  - **Cloud Computing & AI** integration using **AWS**.
 
 ---
 
