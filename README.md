@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
-  🎓 Informatics Student | 🔧 Software Engineer | ☁️ AWS & Cloud Enthusiast
+  🎓 Informatics Student | 🔧 Software Engineer | ☁️ Gemini AI Developer Enthusiast
 </p>
 
 <p align="center">
@@ -12,19 +12,19 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently studying **Informatics Engineering**
+- 🎓 I'm currently studying **Google Gemini AI Developer Cohort**
   
 - 🔧 I love working on:
   - **Software Engineer** passionate about building efficient and scalable systems
     
-- ☁️ Learning **Cloud Computing & AI using AWS Services**
+- ☁️ Learning **Google Gemini AI Developer**
   
-- 💻 Building web applications using **JavaScript**, **Laravel**, and **Filament**
+- 💻 Building web applications using **Python**, **Typescript**, and **Tailwind**
   
 - 🧠 Currently exploring:
+  - Gemini AI Developer
+  - Software Engineering With Kiro
   - Cloud Computing & AI using AWS
-  - Virtual Memory and Page Replacement Algorithms (LRU, FIFO, Optimal)
-  - Genetic Algorithms for route optimization
 
 ---
 
