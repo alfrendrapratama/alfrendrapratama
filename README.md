@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
-  🎓 Informatics Student | 🔧 Software Engineer | ☁️ Gemini AI Developer Enthusiast
+  🎓 Informatics Student | 🔧 AI Specialist | ☁️ Gemini AI Developer Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Cloud+AI+on+AWS;Web+Development;&center=true&width=430&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;AI+Specialist;Generative+AI+With+Google+Gemini;&center=true&width=430&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 
