@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm currently studying **Google Gemini AI Developer Cohort**
+- 🎓 I'm currently studying **Google Gemini AI Developer Cohort** From Lastmile By Smartbridge
   
 - 🔧 I love working on:
   - **Software Engineer** passionate about building efficient and scalable systems
