@@ -1,4 +1,4 @@
-<img width="804" height="328" alt="image" src="https://github.com/user-attachments/assets/ad7f141e-932d-48ff-88d7-b9f660f9606d" /><h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
+<h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
   🎓 Informatics Student | 🔧 AI Specialist | ☁️ Gemini AI Developer Enthusiast
 </p>
