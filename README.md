@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
+<img width="804" height="328" alt="image" src="https://github.com/user-attachments/assets/ad7f141e-932d-48ff-88d7-b9f660f9606d" /><h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
   🎓 Informatics Student | 🔧 AI Specialist | ☁️ Gemini AI Developer Enthusiast
 </p>
@@ -60,8 +60,8 @@
 
 ## 📊 GitHub Stats
 
-[![Alfrendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfrendrapratama&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Alfrendra's GitHub stats](https://rendra-github-stats.vercel.app/api?username=alfrendrapratama&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://rendra-github-stats.vercel.app/api/top-langs/?username=alfrendrapratama&layout=compact&theme=dracula&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
