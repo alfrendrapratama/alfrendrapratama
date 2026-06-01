@@ -19,7 +19,7 @@
   - **AI Engineer:** Focusing on MLOps, model deployment, API integration, and building scalable AI architectures for real-world production.
   - **Software Engineer:** Focusing on writing clean, maintainable code and ensuring overall system efficiency and reliability.
 
-- 💻 Building web applications using **Python**, **TypeScript**, and **Tailwind CSS**.
+- 💻 Building web applications using **Python**, **JavaScript**, and **Tailwind CSS**.
 
 - 🧠 Currently exploring:
   - Advanced **Generative AI** with Google Gemini.
