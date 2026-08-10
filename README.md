@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Alfrendra Rizky Pratama</h1>
 <p align="center">
-  🎓 Informatics Student | 🔧 AI Specialist | ☁️ Gemini AI Developer Enthusiast
+  🎓 Informatics Student | 🔧 Fullstack | ☁️ Gemini AI Developer Enthusiast
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Currently a member of the **Google Gemini AI Developer Cohort** at **Lastmile by Smartbridge**.
+- 🎓 Currently learning fullstack engineering
 
 - 🔧 Roles I’m passionate about:
   - **AI Specialist:** Focusing on algorithm R&D, hyperparameter tuning, and architecting the core logic behind intelligent systems.
